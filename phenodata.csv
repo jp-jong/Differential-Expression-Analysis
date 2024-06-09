@@ -1,0 +1,7 @@
+ids,condition,replicate
+test_ERR4626657,ctrl,1
+test_ERR4626658,ctrl,2
+test_ERR4626659,ctrl,3
+test_ERR4626660,experiment,1
+test_ERR4626661,experiment,2
+test_ERR4626662,experiment,3
