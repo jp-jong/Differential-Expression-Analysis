@@ -9,4 +9,5 @@ All data were analysed and visualized in R. For more information on the context 
 RNA-seq reads from yeast samples grown in two different conditions: medium with synthetic dextrose (+) and (-) without source of Adenine, were obtained.
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/48f3c8dd-5541-4418-8629-90141dfc3113">
-Volcano plot of upregulated and downregulated genes (p-value < 0.0001) 
+
+**Volcano plot of upregulated and downregulated genes (p-value < 0.0001) **
